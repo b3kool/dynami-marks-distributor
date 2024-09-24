@@ -101,6 +101,3 @@ To deploy this app to GitHub Pages:
 - **More Test Distribution Options**: Allowing users to customize how marks are distributed across tests (e.g., weighted distributions).
 - **Graphical Feedback**: Adding visual feedback like charts for marks distribution.
 
----
-
-Feel free to customize it further to fit your exact project and requirements!
