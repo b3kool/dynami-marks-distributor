@@ -1,7 +1,3 @@
-Here's an example of a **README.md** file for your project that distributes quiz marks across multiple tests:
-
----
-
 # Quiz-to-Test Marks Distribution Web App
 
 This project is a web-based tool designed to simplify the process of distributing quiz marks across multiple tests. It allows users to upload a CSV file with quiz scores and then automatically distributes the scores across a specified number of tests, making grading easier for educators. The app is built using **React**, **Vite**, **Tailwind CSS**, and **Aeternity UI** components for a user-friendly and responsive experience.
